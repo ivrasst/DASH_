@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParamWithValueList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <version>20080502</version>
+  <parameterTypes>
+    <ParamType>
+      <typeName>Inventor</typeName>
+      <typeCode>0</typeCode>
+    </ParamType>
+    <ParamType>
+      <typeName>String</typeName>
+      <typeCode>1</typeCode>
+    </ParamType>
+    <ParamType>
+      <typeName>Boolean</typeName>
+      <typeCode>2</typeCode>
+    </ParamType>
+  </parameterTypes>
+  <parameters>
+    <ParamWithValue>
+      <name>d0</name>
+      <typeCode>мм</typeCode>
+      <value>15 мм</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d1</name>
+      <typeCode>мм</typeCode>
+      <value>44 мм</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d2</name>
+      <typeCode>мм</typeCode>
+      <value>16 мм</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d3</name>
+      <typeCode>мм</typeCode>
+      <value>4 мм</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>Высота_крепления</name>
+      <typeCode>мм</typeCode>
+      <value>14.7 мм</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d5</name>
+      <typeCode>град</typeCode>
+      <value>0.00 град</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>Диаметр_мотора</name>
+      <typeCode>мм</typeCode>
+      <value>20.3 мм</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d8</name>
+      <typeCode>град</typeCode>
+      <value>0.00 град</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+  </parameters>
+</ParamWithValueList>
